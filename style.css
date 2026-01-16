@@ -1,7 +1,8 @@
-@import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+/* @import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css); */
 
 .text {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  /* font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 body {
@@ -268,7 +269,7 @@ footer {
 
 .review p {
   font-size: 14px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   line-height: 1.6;
   margin: 15px 0px 0px 0px;
   color: #333;
@@ -311,7 +312,7 @@ section {
 section h4 {
   margin: 0px 0px 20px 0px;
   font-size: 24px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Georgia, "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
   color: var(--secondary_color);
 }
 
